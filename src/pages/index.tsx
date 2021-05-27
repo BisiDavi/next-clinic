@@ -1,14 +1,14 @@
 import React from 'react'
 import { NextPage } from 'next'
-import MainHeading from '@src/components/main-heading/main-heading'
+import Pagelayout from '@src/containers/pagelayout/pagelayout'
 
 const Home: NextPage = () => {
   const { APP_NAME } = process.env
 
   return (
-    <MainHeading>
+    <Pagelayout>
       Hello from <u>{APP_NAME}</u>.
-    </MainHeading>
+    </Pagelayout>
   )
 }
 

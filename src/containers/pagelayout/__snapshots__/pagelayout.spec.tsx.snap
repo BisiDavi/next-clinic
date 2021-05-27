@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagelayout renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+    data-testid="pagelayout"
+  >
+    <div>
+      <h1
+        class="header"
+        data-testid="header"
+      >
+        Header Page
+      </h1>
+    </div>
+    <div>
+      <h1>
+        Footer page
+      </h1>
+    </div>
+  </div>
+</DocumentFragment>
+`;

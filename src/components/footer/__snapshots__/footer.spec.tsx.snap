@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Page renders correctly 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Footer page
+    </h1>
+  </div>
+</DocumentFragment>
+`;
